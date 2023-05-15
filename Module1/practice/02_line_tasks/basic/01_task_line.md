@@ -15,7 +15,12 @@
 ### Решение задачи
 
 ```python
-# TODO: you code here...
+a = int(input("а: "))
+b = int(input("b: "))
+
+p = (a+b)*2
+s = a*b
+print("Периметр и площадь прямоугольника: ", p, s)
 ```
 
 ---
